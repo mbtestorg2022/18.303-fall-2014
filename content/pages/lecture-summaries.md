@@ -112,7 +112,7 @@ No handouts
 [Start with a truly discrete (finite-dimensional) system, and then derive the continuum PDE model as a limit or approximation (PDF)]({{< baseurl >}}/resources/mit18_303f14_lecture6)
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Notes on from discrete to continuum (PDF)]({{< baseurl >}}/resources/mit18_303f14_lec6)
+[Notes on from discrete to continuum (PDF)]({{< baseurl >}}/resources/mit18_303f14_lec6)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -124,7 +124,7 @@ No handouts
 [Start in 1d with the "Sturm-Liouville operator", generalize Sturm-Liouville operators to multiple dimensions (PDF)]({{< baseurl >}}/resources/mit18_303f14_lecture7)
 {{< tdclose >}}
 {{< tdopen >}}
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Notes on elliptic operators (PDF - 1.2MB)]({{< baseurl >}}/resources/mit18_303f14_lec7)
+[Notes on elliptic operators (PDF - 1.2MB)]({{< baseurl >}}/resources/mit18_303f14_lec7)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -138,9 +138,9 @@ No handouts
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[18.303 and music (PDF)]({{< baseurl >}}/resources/mit18_303f14_music)
+[18.303 and music (PDF)]({{< baseurl >}}/resources/mit18_303f14_music)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Music scales and intervals (PDF)]({{< baseurl >}}/resources/mit18_303f14_scale_notes)
+[Music scales and intervals (PDF)]({{< baseurl >}}/resources/mit18_303f14_scale_notes)
 
 [Notes on separation of variables (PDF)]({{< baseurl >}}/resources/mit18_303f14_separation)
 
@@ -158,7 +158,7 @@ No handouts
 {{< tdopen >}}
 
 
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Notes on Bessel functions and cylindrical problems (PDF)]({{< baseurl >}}/resources/mit18_303f14_lec9)
+[Notes on Bessel functions and cylindrical problems (PDF)]({{< baseurl >}}/resources/mit18_303f14_lec9)
 
 [IJulia Bessel-function notebook](http://math.mit.edu/~stevenj/18.303/lecture-8.html)
 
@@ -186,7 +186,7 @@ No handouts
 [Multidimensional finite differences (PDF)]({{< baseurl >}}/resources/mit18_303f14_lecture11)
 {{< tdclose >}}
 {{< tdopen >}}
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Notes on finite differences in 2(+) dimensions (PDF)]({{< baseurl >}}/resources/mit18_303f14_lec11)
+[Notes on finite differences in 2(+) dimensions (PDF)]({{< baseurl >}}/resources/mit18_303f14_lec11)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -366,7 +366,7 @@ No handouts
 [Traveling waves: D'Alembert's solution (PDF)]({{< baseurl >}}/resources/mit18_303f14_lecture25)
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Notes on Fourier transforms, wave velocity, and dispersion (PDF - 2.1MB)]({{< baseurl >}}/resources/mit18_303f14_fourier_disp)
+[Notes on Fourier transforms, wave velocity, and dispersion (PDF - 2.1MB)]({{< baseurl >}}/resources/mit18_303f14_fourier_disp)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -375,7 +375,7 @@ No handouts
 26
 {{< tdclose >}}
 {{< tdopen >}}
-Group-velocity derivation and dispersion. Please see the related contents in ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Notes on Fourier transforms, wave velocity, and dispersion (PDF - 2.1MB)]({{< baseurl >}}/resources/mit18_303f14_fourier_disp)
+Group-velocity derivation and dispersion. Please see the related contents in [Notes on Fourier transforms, wave velocity, and dispersion (PDF - 2.1MB)]({{< baseurl >}}/resources/mit18_303f14_fourier_disp)
 {{< tdclose >}}
 {{< tdopen >}}
 No handouts
@@ -387,7 +387,7 @@ No handouts
 27
 {{< tdclose >}}
 {{< tdopen >}}
-Material dispersion and convolutions. Please see the related contents in ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Notes on Fourier transforms, wave velocity, and dispersion (PDF - 2.1MB)]({{< baseurl >}}/resources/mit18_303f14_fourier_disp)
+Material dispersion and convolutions. Please see the related contents in [Notes on Fourier transforms, wave velocity, and dispersion (PDF - 2.1MB)]({{< baseurl >}}/resources/mit18_303f14_fourier_disp)
 {{< tdclose >}}
 {{< tdopen >}}
 No handouts
@@ -414,7 +414,7 @@ No handouts
 [Waveguide modes, Reduced eigenproblem (PDF)]({{< baseurl >}}/resources/mit18_303f14_lecture29)
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Notes on propagating and evanescent modes in waveguides (PDF)]({{< baseurl >}}/resources/mit18_303f14_waveguide)
+[Notes on propagating and evanescent modes in waveguides (PDF)]({{< baseurl >}}/resources/mit18_303f14_waveguide)
 {{< tdclose >}}
 
 {{< trclose >}}
