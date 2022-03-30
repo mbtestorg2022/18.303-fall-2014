@@ -4,6 +4,7 @@ description: This resource contains the information regarding Linear Partial Dif
   Equations, Lec 32 Summary.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-303-linear-partial-differential-equations-analysis-and-numerics-fall-2014/abfd8f258d2b05a2779f6ded3468828d_MIT18_303F14_Lecture32.pdf
 file_type: application/pdf
+parent_uid: ea4bcf31-0a91-a41e-49ca-61feace5bfc2
 resourcetype: Document
 title: Linear Partial Differential Equations, Lec 32 Summary
 uid: abfd8f25-8d2b-05a2-779f-6ded3468828d

@@ -4,6 +4,7 @@ description: This resource contains the information regarding Linear Partial Dif
   Equations, Lec 15 Handout.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-303-linear-partial-differential-equations-analysis-and-numerics-fall-2014/751a6e557407837eb3800887e490327d_MIT18_303F14_reciprocity.pdf
 file_type: application/pdf
+parent_uid: ea4bcf31-0a91-a41e-49ca-61feace5bfc2
 resourcetype: Document
 title: Linear Partial Differential Equations, Lec 15 Handout
 uid: 751a6e55-7407-837e-b380-0887e490327d

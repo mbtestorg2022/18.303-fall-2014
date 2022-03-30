@@ -4,6 +4,7 @@ description: This resource contains the information regarding Linear Partial Dif
   Equations, Lec 11 Summary.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-303-linear-partial-differential-equations-analysis-and-numerics-fall-2014/2fa52d2bf4c8c893891760aa49ea82af_MIT18_303F14_Lecture11.pdf
 file_type: application/pdf
+parent_uid: ea4bcf31-0a91-a41e-49ca-61feace5bfc2
 resourcetype: Document
 title: Linear Partial Differential Equations, Lec 11 Summary
 uid: 2fa52d2b-f4c8-c893-8917-60aa49ea82af
